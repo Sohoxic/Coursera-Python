@@ -1,8 +1,9 @@
 
 
 # Crash Course on Python 
-#### Google certified
-<img align="centre" src="https://github.com/Sohoxic/Coursera-Python/blob/main/assets/5-2-python-logo-png-image.png" >
+> Google certified
+
+<img src="https://github.com/Sohoxic/Coursera-Python/blob/main/assets/5-2-python-logo-png-image.png" >
 
 # WEEK 1
 ## Python resources
