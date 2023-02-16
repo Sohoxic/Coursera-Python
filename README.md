@@ -1,6 +1,7 @@
 
 
-# Crash Course on Python (Google certified)
+# Crash Course on Python 
+#### (Google certified)
 <img align="centre" src="https://www.python.org/static/community_logos/python-powered-h-140x182.png" >
 
 # WEEK 1
