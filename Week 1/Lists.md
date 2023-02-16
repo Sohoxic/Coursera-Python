@@ -1,12 +1,14 @@
 # Python resources
 
 ### More About Python
+
 **Using Python on your own**
+
 The best way to learn any programming language is to practice it on your own as much as you can. If you have Python installed on your computer, you can execute the interpreter by running the python3 command (or just python on Windows), and you can close it by typing exit() or Ctrl-D.
 
 If you don’t already have Python installed on your machine, that’s alright. We’ll explain how to install it in an upcoming course.
 
-Python practice resources
+**Python practice resources**
 In the meantime, you can still practice by using one of the many online Python interpreters or codepads available online. There’s not much difference between an interpreter and a codepad. An interpreter is more interactive than a codepad, but they both let you execute code and see the results.
 
 Below, you’ll find links to some of the most popular online interpreters and codepads. Give them a go to find your favorite.
